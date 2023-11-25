@@ -864,7 +864,7 @@ Total deals: 524
 |  🤑 | [AppSync Masterclass](https://appsyncmasterclass.com?) | Jump into the world of modern fullstack development as we build a Twitter clone from scratch. You'll master GraphQL, AppSync, Lambda, DynamoDB, Vue.js, and Tailwind in a fun and practical journey into fullstack development! | 50% OFF with discount code **CYBERMONK** |
 |  🤑 | [Testing Serverless Architectures](https://testserverlessapps.com) | Explore the challenges and pitfalls in testing various serverless setups, from APIs to complex Event-Driven Architectures. | 50% OFF with discount code **CYBERMONK** |
 |  💰 | [Production-Ready Serverless](https://productionreadyserverless.com) | Get the most comprehensive training for building and running serverless apps in the real world. We cover everything from project setup, testing, CI/CD, to security and observability best practices. | 30% OFF with discount code **CYBERMONK** |
-
+|  🤑 | [Greater Work Community](https://greaterwork.life) | Launching Cyber Monday 00:00 UTC+14; Trainings, Events, and GPTs to discover work and build teams with meaning, mission, and reward: for engineers, entrepreneurs, and new grads | 1st 100, 90% OFF = $28: **GREATERWORKEAGER**; next 1000, 50% OFF = $140: **GREATERWORKCYBER**; after 1100, 20% OFF = $240: **GREATERWORKCOMMITTED** |
 
 
 [⬆️ Go to Top](#table-of-contents)
